@@ -11,9 +11,19 @@ This project seeks to gather insights from car insurance claims data by analyzin
 The dataset contains information for policyholders including their birthdate, gender, marital status, education level, income, car make and model, coverage zone, number of claim filled.
 Insights:
 1. Total claim: 37.54K
+
 2. The average claimed amount: 50.03K
+   
 3. Number of claims by gender
    mele: 49.96%
    female: 50.04%
 
+
+# Hospitality Domain adshboard
+1.Create the metrics according to the metric list.
+
+2.Create a dashboard according to the mock-up provided by stakeholders.
+
+3.Create relevant insights that are not provided in the metric list/mock-up dashboard.
+# Tools Used: Excel , Power BI, DAX , Power Query
   
